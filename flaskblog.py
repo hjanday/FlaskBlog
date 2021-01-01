@@ -5,6 +5,7 @@ app = Flask(__name__)
 
 
 
+
 #define some sample data
 #sample blog post
 posts=[
